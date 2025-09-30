@@ -48,28 +48,10 @@
 
 ---
 
-## 🤝 Collaboration  
-
-I’d love to collaborate on:  
-- Open Source Frontend Projects  
-- Next.js / React performance-focused apps  
-- Animation-rich UI using **Framer Motion** & **GSAP**  
-
----
-
-## 🌱 Currently Learning  
-
-- ⚛️ **React Internals** → Fiber, Reconciliation  
-- ⚡ **Next.js 14** → App Router, Server Components, Performance  
-- 🔬 **Google V8 Engine** deep dive  
-- 🎨 **Framer Motion + GSAP** for smooth UI animations  
-
----
-
 ## 💬 Ask Me About  
 
-- ⚛️ React & Next.js  
-- ⚡ JavaScript Internals (V8, Event Loop, Optimizations)  
+- ⚛️ **React Internals** → Fiber, Reconciliation   
+- 🔬 **Google V8 Engine** deep dive    
 - 🏗️ Frontend System Design  
 - 🔑 Data Structures & Algorithms  
 
@@ -78,14 +60,6 @@ I’d love to collaborate on:
 ## 📫 How to Reach Me  
 
 📧 [offxl.mohofarhan07@gmail.com](mailto:example@gmail.com)  
-
----
-
-## 💻 Projects & Writing  
-
-- 🌍 **Portfolio:** [upcoming]  
-- 📝 **Blog:** [upcoming]  
-- 📂 **Resume:** [upcoming]  
 
 ---
 
